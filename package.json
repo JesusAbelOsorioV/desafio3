@@ -1,0 +1,17 @@
+{
+  "name": "entrega3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev":"nodemon app.js",
+    "start:dev": "node --watch app.js"
+  },
+  "keywords": [],
+  "author": "Jesus Abel Osorio Vergara",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
